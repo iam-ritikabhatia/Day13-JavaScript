@@ -6,8 +6,8 @@
 
 // console.log(string.subsring( from(index number), to(index number) ) )
 
-let aLine = "Hello, My name is Piyush Kumar"
-console.log(aLine.substring(0,10))
+let aLine = "Hello, My name is "Ram Sharma"
+console.log(aLine.substring(0,9))
 
 
 /**********************indexOf********/
